@@ -1,0 +1,240 @@
+{
+    "default_image": {
+        "name": "默认图片皮肤",
+        "price": 0,
+        "head_image": "snake_head_default.png",
+        "body_image": "snake_body_default.png",
+        "type": "image"
+    },
+    "dragon_image": {
+        "name": "龙形图片皮肤",
+        "price": 2000,
+        "head_image": "dragon_head.png",
+        "body_image": "dragon_body.png",
+        "type": "image"
+    },
+    "cat_image": {
+        "name": "猫咪图片皮肤",
+        "price": 1500,
+        "head_image": "cat_head.png",
+        "body_image": "cat_body.png",
+        "type": "image"
+    },
+    "AI1_image": {
+        "name": "AI1图片皮肤",
+        "price": 1500,
+        "head_image": "AI1_head.png",
+        "body_image": "AI1_body.png",
+        "type": "image"
+    },
+    "AI2_image": {
+        "name": "AI2图片皮肤",
+        "price": 1500,
+        "head_image": "AI2_head.png",
+        "body_image": "AI2_body.png",
+        "type": "image"
+    },
+    "AI3_image": {
+        "name": "AI3图片皮肤",
+        "price": 1500,
+        "head_image": "AI3_head.png",
+        "body_image": "AI3_body.png",
+        "type": "image"
+    },
+    "AI4_image": {
+        "name": "AI4图片皮肤",
+        "price": 1500,
+        "head_image": "AI4_head.png",
+        "body_image": "AI4_body.png",
+        "type": "image"
+    },
+    "cxk_image": {
+        "name": "菜虚鲲图片皮肤",
+        "price": 1500,
+        "head_image": "cxk_head.png",
+        "body_image": "cxk_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/deadman.mp3"
+            }
+    },
+    "robot_image": {
+        "name": "机器人图片皮肤",
+        "price": 1800,
+        "head_image": "robot_head.png",
+        "body_image": "robot_body.png",
+        "type": "image"
+    },
+    "space_image": {
+        "name": "太空图片皮肤",
+        "price": 2500,
+        "head_image": "space_head.png",
+        "body_image": "space_body.png",
+        "type": "image"
+    },
+    "catton_image": {
+        "name": "卡通图片皮肤",
+        "price": 1600,
+        "head_image": "catton_head.png",
+        "body_image": "catton_body.png",
+        "type": "image"
+    },
+    "dragonking_image": {
+        "name": "龙王图片皮肤",
+        "price": 1600,
+        "head_image": "dragonking_head.png",
+        "body_image": "dragonking_body.png",
+        "type": "image"
+    },
+    "cattonbear_image": {
+        "name": "卡通熊图片皮肤",
+        "price": 1600,
+        "head_image": "cattonbear_head.png",
+        "body_image": "cattonbear_body.png",
+        "type": "image"
+    },
+    "cattongreen_image": {
+        "name": "卡通绿图片皮肤",
+        "price": 1600,
+        "head_image": "cattongreen_head.png",
+        "body_image": "cattongreen_body.png",
+        "type": "image"
+    },
+    "cattoncat_image": {
+        "name": "卡通猫图片皮肤",
+        "price": 1600,
+        "head_image": "cattoncat_head.png",
+        "body_image": "cattoncat_body.png",
+        "type": "image"
+    },
+    "kobe_image": {
+        "name": "科比图片皮肤",
+        "price": 1600,
+        "head_image": "kobe_head.png",
+        "body_image": "kobe_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/seeyouagain.mp3",
+            "game_over_sound": "audio/man.mp3"
+        }
+    },
+    "meixi_image": {
+        "name": "梅西图片皮肤",
+        "price": 1600,
+        "head_image": "meixi_head.png",
+        "body_image": "meixi_body.png",
+        "type": "image"
+    },
+    "xianzi_image": {
+        "name": "仙子图片皮肤",
+        "price": 1600,
+        "head_image": "xianzi_head.png",
+        "body_image": "xianzi_body.png",
+        "type": "image"
+    },
+    "liuhua_image": {
+        "name": "六花图片皮肤",
+        "price": 1600,
+        "head_image": "liuhua_head.png",
+        "body_image": "liuhua_body.png",
+        "type": "image"
+    },
+    "liuhua2_image": {
+        "name": "六花2图片皮肤",
+        "price": 1600,
+        "head_image": "liuhua2_head.png",
+        "body_image": "liuhua2_body.png",
+        "type": "image"
+    },
+    "erciyuannvshen_image": {
+        "name": "二次元女生图片皮肤",
+        "price": 1600,
+        "head_image": "erciyuannvshen_head.png",
+        "body_image": "erciyuannvshen_body.png",
+        "type": "image"
+    },
+    "jumping_image": {
+        "name": "姜萍图片皮肤",
+        "price": 1600,
+        "head_image": "jumping_head.png",
+        "body_image": "jumping_body.png",
+        "type": "image"
+    },
+    "dingzhen_image": {
+        "name": "丁真图片皮肤",
+        "price": 1600,
+        "head_image": "dingzhen_head.png",
+        "body_image": "dingzhen_body.png",
+        "type": "image"
+    },
+    "dijialan_image": {
+        "name": "迪迦蓝图片皮肤",
+        "price": 1600,
+        "head_image": "dijialan_head.png",
+        "body_image": "dijialan_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/qijizaixian.mp3"
+        }
+    },
+    "dijiayuan_image": {
+        "name": "迪迦图片皮肤",
+        "price": 1600,
+        "head_image": "dijiayuan_head.png",
+        "body_image": "dijiayuan_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/qijizaixian.mp3"
+        }
+    },
+    "xiyangyang_image": {
+        "name": "喜羊羊图片皮肤",
+        "price": 1600,
+        "head_image": "xiyangyang_head.png",
+        "body_image": "xiyangyang_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/xiyangyang.mp3",
+            "game_over_sound": "audio/huitailang.mp3"
+        }
+    },
+    "lanyangyang_image": {
+        "name": "懒羊羊图片皮肤",
+        "price": 1600,
+        "head_image": "lanyangyang_head.png",
+        "body_image": "lanyangyang_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/lanyangyang.mp3",
+            "game_over_sound": "audio/huitailang.mp3"
+        }
+    },
+    "meiyangyang_image": {
+        "name": "美羊羊图片皮肤",
+        "price": 1600,
+        "head_image": "meiyangyang_head.png",
+        "body_image": "meiyangyang_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/meiyangyang.mp3",
+            "game_over_sound": "audio/huitailang.mp3"
+        }
+    },
+    "zhangyuge_image": {
+        "name": "章鱼哥图片皮肤",
+        "price": 1600,
+        "head_image": "zhangyuge_head.png",
+        "body_image": "zhangyuge_body.png",
+        "type": "image",
+        "audio": {
+            "background_music": "audio/zhangyuge.mp3"
+        }
+    },
+    "littlemouse_image": {
+        "name": "小仓鼠图片皮肤",
+        "price": 1600,
+        "head_image": "littlemouse_head.png",
+        "body_image": "littlemouse_body.png",
+        "type": "image"
+    }
+} 
